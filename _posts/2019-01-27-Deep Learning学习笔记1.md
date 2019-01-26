@@ -1,0 +1,21 @@
+- 资料来源
+  - <https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118160923>
+- 文章作者：Stevenkcolin
+- 深度学习课程组成
+  - simple model from end to end, includes:
+    - Logistic Classification 聚类问题
+    - Stochastic Optimization 优化
+    - Data & Parameter tuning  数据和参数调整
+  - Deep Learning Network
+    - Build first Deep Learning network
+    - Regularization 正则化优化
+  - Image & Convolutional models 图像识别和卷积分网络
+  - Embedding & Recurrent models 嵌入和循环网络
+- 神经网络历史
+  - 80年代-90年代是神经网络的高潮，LeCun曾经用神经网络实现了简单的识别数字功能
+    - 但当时的计算能力和存储能力不够
+  - 90年代末到2000年初的时候，是神经网络和人工智能的低潮期（此时最流行的应该是计算机技术的应用层面）
+  - 到2009年开始神经网络又再次盛行起来
+    - 2009: 语音识别
+    - 2012: 图像识别
+    - 2014: 机器翻译
