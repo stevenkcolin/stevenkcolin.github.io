@@ -1,6 +1,12 @@
 - 作者：
 
-  - BigChen
+  - BigChen、
+  - 
+
+- - [ ] 修改一下自己的博客，参考资料：<https://renshuo555.github.io/2017/08/15/github-blog/>
+
+  
+
 - Step1: 在github上面开设一个repository
   - 设置repository的名字和自己的账号一样，比如
   - ![image-20190126190335301](https://ws2.sinaimg.cn/large/006tNc79gy1fzk7oiptk0j30av02jjrc.jpg)
