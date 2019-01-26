@@ -24,3 +24,17 @@
     ```
 
   - 这样一个最小本地环境就搭建好了。可以用 `jekyll serve` 来执行了
+
+
+
+- 2019-01-26 补充
+
+  - 如何将tensorflow的ipynb文件转化成markdown文件：
+
+  - 来源：<https://blog.csdn.net/red_stone1/article/details/73380517>
+
+  - ```
+    jupyter nbconvert --to markdown notebook.ipynb
+    ```
+
+    
