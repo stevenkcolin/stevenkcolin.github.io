@@ -121,3 +121,45 @@
 - 方法及时反向传播算法
   - ![image-20190127132805660](https://ws2.sinaimg.cn/large/006tNc79gy1fzl2v05l7gj312l0mtn5s.jpg)
 
+- 数据三种集合
+  - training sets
+  - validation sets
+  - test sets
+- Validation Sets
+  - Validation Sets > 30,000 examples
+  - Changes > 0.1% in accuracy
+
+
+
+- ## Stochastic Graident Descent
+
+  - S.G.D 深度学习的核心 （随机梯度下降）
+  - Inputs
+    - means 平均值
+    - equal variance
+  - Initial Weights
+    - Random
+    - MEAN
+    - Equal Variance
+    - Momentom 动量
+    - Learning Rate Decay 学习曲线下降
+  - High Learning Rate
+  - Low  Learning Rate
+
+- 调参方法论
+
+  - Iniitial learning rate 学习率
+  - learning rate decay
+  - Momentum
+  - Batch size
+  - weight initialization
+  - 
+  - 
+  - 当发生意外的时候，首先想到的是降低learning rate
+  - 
+
+- ADA Grad 方法
+
+  - 可以减少前三个3问题，急需要收到·weight & batch size的影响
+
+  
