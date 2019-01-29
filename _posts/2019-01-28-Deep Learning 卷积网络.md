@@ -88,10 +88,10 @@ $$
 
 - Input Depth
 - Output Depth
-- Stride
-- Feature Map
-- Kernel
-- Valid Padding
+- Stride 步数
+- Feature Map 特征映射
+- Kernel 和函数
+- Valid Padding 
 - Same Padding
 - FC = Full Connected
 - Max Pool
